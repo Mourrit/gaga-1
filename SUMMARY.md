@@ -27,4 +27,7 @@
 * [Troubleshooting](troubleshooting.md)
 * [HOWTO](howto/README.md)
   * [Untitled](howto/untitled.md)
+  * [mining](howto/mining.md)
+  * [wallets](howto/wallets.md)
+  * [validator](howto/validator.md)
 
