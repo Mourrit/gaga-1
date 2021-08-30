@@ -25,5 +25,6 @@
 * [FAQ](faq/README.md)
   * [FAQ for chats](faq/faq-for-chats.md)
 * [Troubleshooting](troubleshooting.md)
-* [HOWTO](howto.md)
+* [HOWTO](howto/README.md)
+  * [Untitled](howto/untitled.md)
 
