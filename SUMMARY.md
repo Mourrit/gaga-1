@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The Open Network Knowledge Base](README.md)
+* [Gagagga](gagagga.md)
 * [tree gag](gagaga/README.md)
   * [gaga 1](gagaga/gaga-1/README.md)
     * [gaga 2](gagaga/gaga-1/gaga-2/README.md)
