@@ -24,10 +24,9 @@
 * [Docs](docs.md)
 * [FAQ](faq/README.md)
   * [FAQ for chats](faq/faq-for-chats.md)
-* [Troubleshooting](troubleshooting.md)
+* [Troubleshooting](troubleshooting/README.md)
+  * [wallets](troubleshooting/wallets.md)
 * [HOWTO](howto/README.md)
-  * [Untitled](howto/untitled.md)
   * [mining](howto/mining.md)
-  * [wallets](howto/wallets.md)
   * [validator](howto/validator.md)
 
