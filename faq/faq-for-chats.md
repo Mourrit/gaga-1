@@ -389,7 +389,7 @@ This console program is a wrapper over fift, lite-client and validator-engine-co
 
 ### **Как долго длятся раунды валидирования?**
 
-Один раунд длиться около 8 часов.
+Один раунд длиться около 18 часов.
 
 ![](https://lh4.googleusercontent.com/7nSRZR6MSVHPld-DvYtGYAfN29FcATulvC0nheIxqV4HpH18L26KyIcAuyK9I2MN1Jm2g5UjD9XnJTsGGiy44tGnJPXL2B3txHiFzi73iMyeMSBHrlCkWjO2LKGtAF-nrcEBj0Rm=s0)
 
