@@ -317,7 +317,7 @@ _\*EVM — Ethereum Virtual Machine_
 
 ### Что такое Mytonctrl?
 
-This console program is a wrapper over fift, lite-client and validator-engine-console. It was created to facilitate the management of wallets, domains and a validator on the Linux operating system. Подробнее узнать можно тут - [https://github.com/igroman787/mytonctrl](https://github.com/igroman787/mytonctrl)
+This console program is a wrapper over fift, lite-client and validator-engine-console. It was created to facilitate the management of wallets, domains and a validator on the Linux operating system. Подробнее узнать можно тут - [https://github.com/igroman787/mytonctrl](https://github.com/igroman787/mytonctrl) или здесь - [https://tonmine.xyz](https://tonmine.xyz/)
 
 ## **Валидация**
 
