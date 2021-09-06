@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Gagagag gagag gag](README.md)
+* [intr gag](README.md)
 * [Gagagga](gagagga.md)
 * [tree gag](gagaga/README.md)
   * [gaga 1](gagaga/gaga-1/README.md)
@@ -22,12 +22,4 @@
           * [jaja 5](gagaga/jaja-1/jaja-2/jaja-3/jaja-4/jaja-5/README.md)
             * [jaja 6](gagaga/jaja-1/jaja-2/jaja-3/jaja-4/jaja-5/jaja-6/README.md)
               * [jaja 7](gagaga/jaja-1/jaja-2/jaja-3/jaja-4/jaja-5/jaja-6/jaja-7.md)
-* [Docs](docs.md)
-* [FAQ](faq/README.md)
-  * [FAQ for chats](faq/faq-for-chats.md)
-* [Troubleshooting](troubleshooting/README.md)
-  * [wallets](troubleshooting/wallets.md)
-* [HOWTO](howto/README.md)
-  * [mining](howto/mining.md)
-  * [validator](howto/validator.md)
 
